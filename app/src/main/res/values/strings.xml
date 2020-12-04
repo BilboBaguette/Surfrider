@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Surfrider</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">Plages</string>
+    <string name="tab_text_2">Experience</string>
+    <string name="feedbacktitle">Faites un retour sur votre expérience</string>
+    <string name="feedbacktype">Propreté de la plage</string>
+    <string name="feedbacktype1">Très bien</string>
+    <string name="feedbacktype2">Bien</string>
+    <string name="feedbacktype3">Mauvais</string>
+    <string name="feedbacktype4">Médiocre</string>
 </resources>
